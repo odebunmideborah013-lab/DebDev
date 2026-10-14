@@ -1,6 +1,7 @@
 // Show a welcome message in the browser console
-console.log("Welcome to Deborah's Portfolio! 💜");
 alert("Welcome to Deborah's Portfolio ")
+console.log("Welcome to Deborah's Portfolio! 💜");
+
 
 // Highlight the navigation link for the current section
 const sections = document.querySelectorAll("section");
